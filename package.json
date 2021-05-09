@@ -1,0 +1,25 @@
+{
+    "name": "visual-studio-white-light",
+    "displayName": "%displayName%",
+    "description": "%description%",
+    "version": "1.0.0",
+    "publisher": "vscode",
+    "license": "MIT",
+    "engines": {
+        "vscode": "*"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "id": "Visual Studio White Light",
+                "label": "%themeLabel%",
+                "uiTheme": "vs",
+                "path": "./themes/visual-studio-white-light-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/b2005luis/visual-studio-white-light-theme.git"
+    }
+}
