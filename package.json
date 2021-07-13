@@ -3,7 +3,7 @@
     "displayName": "%displayName%",
     "description": "%description%",
     "version": "1.0.0",
-    "publisher": "vscode",
+    "publisher": "b2005luis",
     "license": "MIT",
     "engines": {
         "vscode": "*"
@@ -20,6 +20,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/b2005luis/visual-studio-white-light-theme.git"
+        "url": "https://github.com/b2005luis/visual-studio-white-light-theme"
     }
 }
